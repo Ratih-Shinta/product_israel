@@ -7,6 +7,7 @@
         <div class="navbar-nav">
             <a class="nav-link" href="/student/all">student</a>
             <a class="nav-link" href="/product/all">product</a>
+            <a class="nav-link" href="/replacement/all">replacement</a>
         </div>
         </div>
     </div>
